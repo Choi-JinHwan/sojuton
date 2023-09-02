@@ -1,0 +1,9 @@
+cors:
+  allowedOrigins:
+    - "*"
+    - "https://boilerplate-react-nine.vercel.app"
+springdoc:
+  swagger-ui:
+    path: /swagger-ui-custom.html
+open-ai:
+  key: <Open AI key를 입력해주세요>
